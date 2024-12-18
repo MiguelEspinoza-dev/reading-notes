@@ -5,4 +5,4 @@
 *[Linkedin](https://www.linkedin.com/in/miguel-angel-espinoza-c%C3%B3rdova-961822157/)
 *[GitHub](https://github.com/MiguelEspinoza-dev/reading-notes/edit/main/README.md)
 ## Mis notas de lectura
-*[Mindset](https://github.com/MiguelEspinoza-dev/reading-notes/commit/0b299943c4fc07ae617c932865fe96c3f5ff08be)
+*[Mindset](https://github.com/MiguelEspinoza-dev/reading-notes/commits?author=MiguelEspinoza-dev)
