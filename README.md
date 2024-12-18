@@ -3,6 +3,6 @@
 ### Soy de la ciudad minera Cerro de Pasco vivo en Santa Anita, trabajo como diseñador gráfico, me defino como una persona con valores y multifacético. Soy un estudiante en constante aprendizaje, un amigo leal y un individuo que busca crecer y desarrollarse como persona.
 ## Informacion de contacto
 *[Linkedin](https://www.linkedin.com/in/miguel-angel-espinoza-c%C3%B3rdova-961822157/)
-*[GitHub](https://github.com/MiguelEspinoza-dev/reading-notes/edit/main/README.md)
+*[GitHub](https://github.com/MiguelEspinoza-dev/reading-notes)
 ## Mis notas de lectura
 *[Mindset](mindset.md)
